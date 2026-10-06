@@ -1,18 +1,16 @@
-         <th rowspan="2">Category</th>
-         <th rowspan="2">Course</th>
-         <th colspan="2">Final Grades</th>
-      </tr>
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Fall Semester Report Card</title>
+</head>
+<body>
+   <h1>Fall Semester Report Card</h1>
+   
+   <table border="1">
       <tr>
-         <th>Credits</th>
-      </tr>
-         <th>Grade</th>
-
-      <tr>
-         <td rowspan="2">Core Subjects</td>
-      </tr>
-      <tr>
-         <td>Algebra</td>
-         <td>Chemistry</td>
+         <th>Category</th>
+         <th>Course</th>
+         <th col></th>
       </tr>
    </table>
    
