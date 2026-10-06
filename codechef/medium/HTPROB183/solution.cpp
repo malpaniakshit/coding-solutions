@@ -6,7 +6,9 @@
 <body>
    <h1>My Weekly Class Schedule</h1>
    
+   <tr>
    
-   
+      <th>Time</th>
+   </tr>
 </body>
 </html>
