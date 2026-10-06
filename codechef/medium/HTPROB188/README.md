@@ -25,30 +25,29 @@
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T18:03:49.168Z  
+**Submitted:** 2026-10-06T18:05:00.186Z  
 
 ```cpp
       <tr>
-         <th>Category</th>
-         <th>Course</th>
+         <th rowspan="2">Category</th>
+         <th rowspan=>Course</th>
          <th colspan="2">Final Grades</th>
       </tr>
-   </table>
       <tr>
          <th>Credits</th>
       </tr>
          <th>Grade</th>
 
       <tr>
-         <td rowspan="2">Core Subjects</td>
-      </tr>
-      <tr>
-         <td>Algebra</td>
-      </tr>
-         <td>Chemistry</td>
    <table border="1">
    
-   
+   <h1>Fall Semester Report Card</h1>
+<body>
+</head>
+   <title>Fall Semester Report Card</title>
+<head>
+<html>
+<!DOCTYPE html>
 ```
 
 ---
