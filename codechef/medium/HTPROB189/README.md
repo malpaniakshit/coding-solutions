@@ -25,10 +25,9 @@
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T18:16:42.633Z  
+**Submitted:** 2026-10-06T18:17:36.740Z  
 
 ```cpp
-    <h2>Conference Schedule</h2>
 
     <table border="1">
      
@@ -47,8 +46,9 @@
         <tr>
             <td>9:00 - 10:00</td>
         </tr>
-            <td
+            <td rowspan="2">Keynote Address</td>
 </html>
+            <td>Opening Remarks</td>
 ```
 
 ---
