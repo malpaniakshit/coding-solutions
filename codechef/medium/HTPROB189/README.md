@@ -25,7 +25,7 @@
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T18:10:13.494Z  
+**Submitted:** 2026-10-06T18:11:30.333Z  
 
 ```cpp
 <!DOCTYPE html>
@@ -36,7 +36,7 @@
 <body>
     <h2>Conference Schedule</h2>
 
-    <!-- Write your code here-->
+    <table border></table>
      
 </body>
 </html>
