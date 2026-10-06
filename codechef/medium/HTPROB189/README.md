@@ -25,14 +25,13 @@
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T18:18:42.692Z  
+**Submitted:** 2026-10-06T18:19:03.651Z  
 
 ```cpp
      
 </body>
     </table>
         </tr>
-            <th colspan="3">Conference Days</th>
         <tr>
             <th>Day 1</th>
         </tr>
@@ -48,6 +47,7 @@
         <tr>
             <td>10:00-11:00</td>
         </tr>
+            <td colspan="2">Work</td>
 </html>
 ```
 
