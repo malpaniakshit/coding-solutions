@@ -1,32 +1,31 @@
-   <h1>Student Information</h1>
-   
-   <p>Tables are an excellent way to organize and display structured data in a clear,readalbe format.They help present information in rows and columns, making it easy to compare and understand different data points.</p>
-   
-   <table border="1">
+         <td>Sarah Johnson</td>
+         <td>2023001</td>
+         <td>Computer Science</td>
+         <td><a href="#">View Profile</a></td>
+      </tr>
+
       <tr>
-         <th>Name</th>
+         <td>Michael Chen</td>
+         <td>2023002</td>
+         <td>Mathematics</td>
+         <td><a href="#">View Profile</a></td>
+      </tr>
+
+      <tr>
+         <td>Emma Rodriguez</td>
+         <td>2023003</td>
+         <td>Biology</td>
+         <td><a href="#">View Profile</a></td>
       </tr>
    </table>
 
    <footer>
        © 2025 Student Information System
-
-      <tr>
-         <td>Sarah Johnson</td>
-      </tr>
-         <th>Roll Number</th>
-         <th>Course</th>
-         <th>Profile</th>
-         <td>2023001</td>
-         <td>Computer Science</td>
-         <td><a href="#">View Profile</a></td>
-
-      <tr>
-         <td><a href="#">View Profile</a></td>
-      </tr>
    </footer>
-
+</body>
+</main>
+</html>
       <tr>
-         <td><a href="#">View Profile</a></td>
+
       </tr>
-         
+         <th>Profile</th>
