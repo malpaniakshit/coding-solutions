@@ -28,7 +28,7 @@
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T17:16:12.527Z  
+**Submitted:** 2026-10-06T17:17:58.457Z  
 
 ```cpp
 <!DOCTYPE html>
@@ -39,12 +39,14 @@
 <body>
    <h1>Student Information</h1>
    
-   <p>Tables are an </p>
+   <p>Tables are an excellent way to organize and display structured data in a clear,readalbe format.They help present information in rows and columns, making it easy to compare and understand different data points.</p>
    
    <footer>
        © 2025 Student Information System
    </footer>
 </body>
+
+   <tabl
 </html>
 ```
 
