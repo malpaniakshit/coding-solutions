@@ -3,7 +3,6 @@
          <td>Chemistry</td>
       </tr>
    </table>
-         <td>A</td>
    
          <td>4</td>
          <td>B+</td>
@@ -12,9 +11,10 @@
          <td rowspan="2">Electives</td>
       </tr>
          <td>Art History</td>
-         <td></td>
+         <td>3</td>
       <tr>
-         <td>Music </td>
+         <td>Music Theory</td>
       </tr>
 </body>
+         <td>A-</td>
 </html>
