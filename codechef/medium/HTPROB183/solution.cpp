@@ -7,11 +7,17 @@
    <h1>My Weekly Class Schedule</h1>
    
    <tr>
-   
       <th>Time</th>
-   </tr>
-</body>
       <th>Monday</th>
-      <th>esday</th>
-      <th></th>
+      <th>Tuesday</th>
+      <th>Wednesday</th>
+      <th>Thursday</th>
+      <th>Friday</th>
+   </tr>
+
+   <tr>
+      
+   </tr>
+   
+</body>
 </html>
