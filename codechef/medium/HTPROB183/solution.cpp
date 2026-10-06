@@ -11,5 +11,7 @@
       <th>Time</th>
    </tr>
 </body>
-      <th>Time</th>
+      <th>Monday</th>
+      <th>Tuesday</th>
+      <th>Wed</th>
 </html>
