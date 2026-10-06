@@ -28,7 +28,7 @@
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T17:18:59.506Z  
+**Submitted:** 2026-10-06T17:20:07.910Z  
 
 ```cpp
 <!DOCTYPE html>
@@ -43,15 +43,21 @@
    
    <table border="1">
       <tr>
-         <th></th>
+         <th>Name</th>
       </tr>
    </table>
 
    <footer>
        © 2025 Student Information System
    </footer>
+
+      <tr>
+         <td></td>
+      </tr>
 </body>
-      
+         <th>Roll Number</th>
+         <th>Course</th>
+         <th>Profile</th>
 </html>
 ```
 
