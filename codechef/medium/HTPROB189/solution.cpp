@@ -1,13 +1,6 @@
-</head>
-<body>
-    <h2>Conference Schedule</h2>
-
-    <table border="1">
      
 </body>
-        <tr>
     </table>
-            <th rowspan="2">Time</th>
         </tr>
             <th colspan="3">Conference Days</th>
         <tr>
@@ -15,6 +8,14 @@
         </tr>
             <th>Day 2</th>
             <th>Day 3</th>
-</html>
 
-        
+        <tr>
+            <td>9:00 - 10:00</td>
+        </tr>
+            <td rowspan="2">Keynote Address</td>
+            <td>Opening Remarks</td>
+            <td>Welcome Speech</td>
+        <tr>
+            <td>10:00 - 11:00</td>
+        </tr>
+</html>
