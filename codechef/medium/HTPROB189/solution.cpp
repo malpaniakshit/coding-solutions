@@ -6,7 +6,7 @@
 <body>
     <h2>Conference Schedule</h2>
 
-    <!-- Write your code here-->
+    <table border></table>
      
 </body>
 </html>
