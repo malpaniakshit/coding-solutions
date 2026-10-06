@@ -25,14 +25,9 @@
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T18:06:29.174Z  
+**Submitted:** 2026-10-06T18:07:44.711Z  
 
 ```cpp
-      <tr>
-         <th>Credits</th>
-      </tr>
-         <th>Grade</th>
-
       <tr>
          <td rowspan="2">Core Subjects</td>
       </tr>
@@ -44,9 +39,14 @@
          <td>A</td>
          <td>4</td>
    
-</body>
          <td>4</td>
-         <td></td>
+         <td>B+</td>
+
+      <tr>
+         <td rowspan="2">Electives</td>
+      </tr>
+</body>
+         <
 </html>
 ```
 
