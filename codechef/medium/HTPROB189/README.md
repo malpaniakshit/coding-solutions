@@ -25,7 +25,7 @@
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T18:18:26.961Z  
+**Submitted:** 2026-10-06T18:18:35.677Z  
 
 ```cpp
      
@@ -40,13 +40,13 @@
             <th>Day 3</th>
 
         <tr>
-            <td>9:00 - 10:00</td>
+            <td>9:00-10:00</td>
         </tr>
             <td rowspan="2">Keynote Address</td>
             <td>Opening Remarks</td>
             <td>Welcome Speech</td>
         <tr>
-            <td>10:00 - 11:00</td>
+            <td>10:00-11:00</td>
         </tr>
 </html>
 ```
