@@ -6,7 +6,7 @@
 <body>
    <h1>My Weekly Class Schedule</h1>
    
-   <table border="1">
+   
    <tr>
       <th>Time</th>
       <th>Monday</th>
