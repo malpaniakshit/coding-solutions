@@ -28,14 +28,9 @@
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T17:26:18.668Z  
+**Submitted:** 2026-10-06T17:26:40.660Z  
 
 ```cpp
-         <td>Sarah Johnson</td>
-         <td>2023001</td>
-         <td>Computer Science</td>
-         <td><a href="#">View Profile</a></td>
-      </tr>
 
       <tr>
          <td>Michael Chen</td>
@@ -45,25 +40,20 @@
       </tr>
 
       <tr>
-      <tr>
-
+         <td>Emma Rodriguez</td>
+         <td>2023003</td>
+         <td>Biology</td>
+         <td><a href="#">View Profile</a></td>
       </tr>
-         <th>Profile</th>
-         <th>Course</th>
-         <th>Roll Number</th>
-         <th>Name</th>
-      <tr>
-   <table border="1">
-   
-   <p>Tables are an excellent way to organize and display structured data in a clear,readalbe format.They help present information in rows and columns, making it easy to compare and understand different data points.</p>
-   <main>
-   
-   <h1>Student Information</h1>
-<body>
-</head>
-   <title>Student Information</title>
-<head>
-   <
+   </table>
+   </main>
+
+   <footer>
+       © 2025 Student Information System
+   </footer>
+</body>
+   </section>
+</html>
 ```
 
 ---
