@@ -6,7 +6,7 @@
 <body>
    <h1>Student Information</h1>
    
-   <!-- Add your main content here -->
+   <p>Tables</p>
    
    <footer>
        © 2025 Student Information System
