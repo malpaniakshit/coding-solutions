@@ -7,11 +7,12 @@
    <h1>Fall Semester Report Card</h1>
    
    <table border="1">
-   
       <tr>
-   </table>
          <th>Category</th>
+         <th>Course</th>
+         <th colspan="2">Final Grades</th>
       </tr>
+   </table>
+   
 </body>
-         
 </html>
