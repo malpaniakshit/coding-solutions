@@ -28,40 +28,37 @@
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T17:26:09.719Z  
+**Submitted:** 2026-10-06T17:24:58.808Z  
 
 ```cpp
+
+      <tr>
          <td>Sarah Johnson</td>
+      </tr>
          <td>2023001</td>
          <td>Computer Science</td>
          <td><a href="#">View Profile</a></td>
+
+      <tr>
+         <td><a href="#">View Profile</a></td>
       </tr>
 
       <tr>
+         <td><a href="#">View Profile</a></td>
+      </tr>
          <td>Michael Chen</td>
          <td>2023002</td>
          <td>Mathematics</td>
-         <td><a href="#">View Profile</a></td>
-      </tr>
-
-      <tr>
          <td>Emma Rodriguez</td>
          <td>2023003</td>
          <td>Biology</td>
-         <td><a href="#">View Profile</a></td>
-      </tr>
    </table>
 
    <footer>
        © 2025 Student Information System
    </footer>
 </body>
-</main>
 </html>
-      <tr>
-
-      </tr>
-         <th>Profile</th>
 ```
 
 ---
