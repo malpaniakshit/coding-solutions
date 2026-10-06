@@ -25,18 +25,15 @@
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T18:02:53.634Z  
+**Submitted:** 2026-10-06T18:03:49.168Z  
 
 ```cpp
-   
-   <table border="1">
       <tr>
          <th>Category</th>
          <th>Course</th>
          <th colspan="2">Final Grades</th>
       </tr>
    </table>
-   
       <tr>
          <th>Credits</th>
       </tr>
@@ -45,9 +42,13 @@
       <tr>
          <td rowspan="2">Core Subjects</td>
       </tr>
-</body>
-      <
-</html>
+      <tr>
+         <td>Algebra</td>
+      </tr>
+         <td>Chemistry</td>
+   <table border="1">
+   
+   
 ```
 
 ---
