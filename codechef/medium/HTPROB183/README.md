@@ -22,30 +22,28 @@
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T17:12:03.940Z  
+**Submitted:** 2026-10-06T17:12:26.783Z  
 
 ```cpp
-<!DOCTYPE html>
-<html>
-<head>
-   <title>My Weekly Class Schedule</title>
-</head>
-<body>
-   <h1>My Weekly Class Schedule</h1>
-   
-   
-   <tr>
-      <th>Time</th>
-      <th>Monday</th>
-      <th>Tuesday</th>
-      <th>Wednesday</th>
-      <th>Thursday</th>
-      <th>Friday</th>
+      <td>Science</td>
+      <td>Physical Education</td>
+      <td>Art</td>
+      <td>English</td>
+      <td>Mathematics</td>
    </tr>
 
    <tr>
-      <td>9:00 AM</td>
-      <td>Mathematics</td>
+      <td>2:00 PM</td>
+      <td>History</td>
+      <td>Music</td>
+      <td>Science</td>
+      <td>Art</td>
+      <td>Physical Education</td>
+   </tr>
+   
+</body>
+</table>
+</html>
 ```
 
 ---
