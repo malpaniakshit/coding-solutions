@@ -25,26 +25,28 @@
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T18:09:45.225Z  
+**Submitted:** 2026-10-06T18:09:00.177Z  
 
 ```cpp
       </tr>
+      <tr>
+         <td>Chemistry</td>
+      </tr>
    </table>
+         <td>A</td>
    
+         <td>4</td>
          <td>B+</td>
 
       <tr>
          <td rowspan="2">Electives</td>
       </tr>
          <td>Art History</td>
-         <td>3</td>
+         <td></td>
       <tr>
-         <td>Music Theory</td>
+         <td>Music </td>
       </tr>
 </body>
-         <td>A-</td>
-         <td>3</td>
-         <td>B</td>
 </html>
 ```
 
