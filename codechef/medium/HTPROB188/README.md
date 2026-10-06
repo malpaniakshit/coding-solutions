@@ -25,7 +25,7 @@
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T17:59:16.026Z  
+**Submitted:** 2026-10-06T18:00:26.583Z  
 
 ```cpp
 <!DOCTYPE html>
@@ -36,9 +36,14 @@
 <body>
    <h1>Fall Semester Report Card</h1>
    
-   <!-- Create your table here -->
+   <table border="1">
    
+      <tr>
+   </table>
+         <th>Category</th>
+      </tr>
 </body>
+         
 </html>
 ```
 
