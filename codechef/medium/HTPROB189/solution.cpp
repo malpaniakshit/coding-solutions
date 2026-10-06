@@ -1,4 +1,3 @@
-    <h2>Conference Schedule</h2>
 
     <table border="1">
      
@@ -17,5 +16,6 @@
         <tr>
             <td>9:00 - 10:00</td>
         </tr>
-            <td
+            <td rowspan="2">Keynote Address</td>
 </html>
+            <td>Opening Remarks</td>
