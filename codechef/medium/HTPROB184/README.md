@@ -28,7 +28,7 @@
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T17:15:10.989Z  
+**Submitted:** 2026-10-06T17:15:37.436Z  
 
 ```cpp
 <!DOCTYPE html>
@@ -39,7 +39,7 @@
 <body>
    <h1>Student Information</h1>
    
-   <!-- Add your main content here -->
+   <p>Tables</p>
    
    <footer>
        © 2025 Student Information System
