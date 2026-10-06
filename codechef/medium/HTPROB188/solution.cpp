@@ -6,7 +6,12 @@
 <body>
    <h1>Fall Semester Report Card</h1>
    
-   <!-- Create your table here -->
+   <table border="1">
    
+      <tr>
+   </table>
+         <th>Category</th>
+      </tr>
 </body>
+         
 </html>
