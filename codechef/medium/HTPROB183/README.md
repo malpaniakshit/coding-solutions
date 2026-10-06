@@ -22,7 +22,7 @@
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T15:41:25.890Z  
+**Submitted:** 2026-10-06T17:13:08.281Z  
 
 ```cpp
 <!DOCTYPE html>
@@ -33,15 +33,19 @@
 <body>
    <h1>My Weekly Class Schedule</h1>
    
+   <table border="1">
    <tr>
-   
       <th>Time</th>
-   </tr>
-</body>
       <th>Monday</th>
       <th>Tuesday</th>
-      <th>Wed</th>
-</html>
+      <th>Wednesday</th>
+      <th>Thursday</th>
+      <th>Friday</th>
+   </tr>
+
+   <tr>
+      <td>9:00 AM</td>
+      <td>Mathematics</td>
 ```
 
 ---
