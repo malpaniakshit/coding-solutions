@@ -25,19 +25,15 @@
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T18:07:44.711Z  
+**Submitted:** 2026-10-06T18:09:05.036Z  
 
 ```cpp
-      <tr>
-         <td rowspan="2">Core Subjects</td>
       </tr>
       <tr>
          <td>Chemistry</td>
       </tr>
    </table>
-         <td>Algebra</td>
          <td>A</td>
-         <td>4</td>
    
          <td>4</td>
          <td>B+</td>
@@ -45,9 +41,13 @@
       <tr>
          <td rowspan="2">Electives</td>
       </tr>
+         <td>Art History</td>
+         <td>3</td>
+      <tr>
+         <td>Music </td>
+      </tr>
 </body>
-         <
-</html>
+         <td
 ```
 
 ---
