@@ -28,10 +28,9 @@
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T17:22:36.682Z  
+**Submitted:** 2026-10-06T17:23:27.670Z  
 
 ```cpp
-   <h1>Student Information</h1>
    
    <p>Tables are an excellent way to organize and display structured data in a clear,readalbe format.They help present information in rows and columns, making it easy to compare and understand different data points.</p>
    
@@ -41,8 +40,6 @@
       </tr>
    </table>
 
-   <footer>
-       © 2025 Student Information System
 
       <tr>
          <td>Sarah Johnson</td>
@@ -57,11 +54,15 @@
       <tr>
          <td><a href="#">View Profile</a></td>
       </tr>
-   </footer>
-</body>
 
-      <t
-</html>
+      <tr>
+         <td><a href="#">View Profile</a></td>
+      </tr>
+         <td>Michael Chen</td>
+         <td>2023002</td>
+         <td>Mathematics</td>
+         <td></td>
+   <footer>
 ```
 
 ---
