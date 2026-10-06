@@ -10,13 +10,19 @@
    
    <table border="1">
       <tr>
-         <th></th>
+         <th>Name</th>
       </tr>
    </table>
 
    <footer>
        © 2025 Student Information System
    </footer>
+
+      <tr>
+         <td></td>
+      </tr>
 </body>
-      
+         <th>Roll Number</th>
+         <th>Course</th>
+         <th>Profile</th>
 </html>
