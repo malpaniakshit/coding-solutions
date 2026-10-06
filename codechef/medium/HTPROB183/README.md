@@ -22,7 +22,7 @@
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T15:40:35.909Z  
+**Submitted:** 2026-10-06T15:40:45.893Z  
 
 ```cpp
 <!DOCTYPE html>
@@ -38,6 +38,7 @@
       <th>Time</th>
    </tr>
 </body>
+      <th>Mond</th>
 </html>
 ```
 
