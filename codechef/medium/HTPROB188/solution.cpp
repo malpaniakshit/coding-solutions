@@ -1,9 +1,4 @@
       <tr>
-         <th>Credits</th>
-      </tr>
-         <th>Grade</th>
-
-      <tr>
          <td rowspan="2">Core Subjects</td>
       </tr>
       <tr>
@@ -14,7 +9,12 @@
          <td>A</td>
          <td>4</td>
    
-</body>
          <td>4</td>
-         <td></td>
+         <td>B+</td>
+
+      <tr>
+         <td rowspan="2">Electives</td>
+      </tr>
+</body>
+         <
 </html>
